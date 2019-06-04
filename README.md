@@ -2,6 +2,7 @@ laravel-api-doc
 ======
 在Laravel中使用Markdown语法轻松编写API文档
 
+![示例](https://hdlovefork.github.io/api-doc/images/demo1.gif)
 
 ### 安装
 
