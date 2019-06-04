@@ -1,5 +1,5 @@
 {
-    "name": "dean/api-doc",
+    "name": "dean/laravel-api-doc",
     "require": {
         "erusev/parsedown": "^1.7",
         "laravel/framework": "^5.5"
