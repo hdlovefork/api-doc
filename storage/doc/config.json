@@ -1,0 +1,22 @@
+[
+  {
+    "path": "shop",
+    "name": "商城",
+    "children": [
+      {
+        "path": "product",
+        "name": "商品模块"
+      }
+    ]
+  },
+  {
+    "path": "blog",
+    "name": "博客",
+    "children": [
+      {
+        "path": "article",
+        "name": "文章"
+      }
+    ]
+  }
+]
