@@ -36,7 +36,8 @@ php artisan vendor:publish --tag=dean-apidoc
  ...
 ]
 ```
-它将会搜索/storage/doc/shop/product目录下的所有.md后缀文件，并显示在左侧列表中。
+它将会搜索/storage/doc/shop/product目录下的所有.md后缀文件，并以`商城->商品模块`的层级结构显示在左侧列表中。
 
+### License
 
-
+Licensed under [The MIT License (MIT)](LICENSE).
